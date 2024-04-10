@@ -1,6 +1,6 @@
 Olá! 
 meu nome é Maria Eduarda
-tenho 16 anos
+tenho 16 anos,
 moro em Santa Catarina, Apiúna
 estou estudando no 2 ano do ensino médio,
 faço curso de logíca e programação do senai;
