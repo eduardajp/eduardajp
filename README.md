@@ -2,7 +2,7 @@ Olá!
 meu nome é Maria Eduarda
 tenho 16 anos,
 moro em Santa Catarina,
-estou estudando no 2 ano do ensino médio,
+estou no 2 ano do ensino médio,
 faço curso de logíca e programação do senai;
 gosto de ler e entendo um pouco de inglês,
 tenho um gato mesclado, chamado paçoca;
